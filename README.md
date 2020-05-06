@@ -3,12 +3,12 @@
 > A dark theme for [Total Commander](https://www.ghisler.com/).
 > With different color per filetypes (raster images, vectors, videos, code, system file and audio)
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot_tc.png)
 
 ## Install
 
 Download using the [GitHub .zip download]() option.
-Place color.ini in X:\Users\<username>\AppData\Roaming\GHISLER\
+Place _color.ini_ in X:\Users\ _username_ \AppData\Roaming\GHISLER\
 
 ## Team
 
