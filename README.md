@@ -14,7 +14,7 @@ Place _color.ini_ in X:\Users\ _username_ \AppData\Roaming\GHISLER\
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Marco PsyPeke](hhttps://avatars2.githubusercontent.com/u/55196873?s=120&v=4)](https://github.com/PsyPeke) | 
+[![Marco PsyPeke](https://avatars2.githubusercontent.com/u/55196873?s=120&v=4)](https://github.com/PsyPeke) | 
 [Marco PsyPeke](https://github.com/PsyPeke) 
 
 ## License
