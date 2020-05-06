@@ -1,4 +1,4 @@
-### [X](http://link-to-x.com)
+### Dracula for [Total Commander](https://www.ghisler.com/)
 
 #### Install using Git
 
@@ -12,6 +12,4 @@ Download using the [GitHub .zip download](https://github.com/dracula/template/ar
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Copy colors.ini in X:\Users\<username>\AppData\Roaming\GHISLER
