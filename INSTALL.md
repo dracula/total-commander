@@ -12,4 +12,4 @@ Download using the [GitHub .zip download](https://github.com/dracula/template/ar
 
 #### Activating theme
 
-1. Copy colors.ini in X:\Users\<username>\AppData\Roaming\GHISLER
+1. Copy colors.ini in X:\Users\ <username> \AppData\Roaming\GHISLER
