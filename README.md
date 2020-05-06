@@ -1,20 +1,21 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Total Commander](http://link-to-x.com)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Total Commander](https://www.ghisler.com/).
+> With different color per filetypes (raster images, vectors, videos, code, system file and audio)
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+Download using the [GitHub .zip download]() option.
+Place color.ini in X:\Users\<username>\AppData\Roaming\GHISLER\
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
---- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+[![Marco PsyPeke](https://avatars0.githubusercontent.com/u/55196873?s=460&u=4cdcbe51c1f650cd8617537bf488ea0f5c81b256&v=4)](https://github.com/PsyPeke) | 
+[Marco PsyPeke](https://github.com/PsyPeke) 
 
 ## License
 
