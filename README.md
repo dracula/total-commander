@@ -3,7 +3,7 @@
 > A dark theme for [Total Commander](https://www.ghisler.com/).
 > With different color per filetypes (raster images, vectors, videos, code, system file and audio)
 
-![Screenshot](screenshot_tc.png)
+![Screenshot](screenshot.png)
 
 ## Install
 
