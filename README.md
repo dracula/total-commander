@@ -6,7 +6,15 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/total-commander](https://draculatheme.com/total-commander).
+To install the theme clone this repo with git or use the [GitHub .zip download](https://github.com/dracula/total-commander/archive/master.zip).
+
+After the download edit the file `"C:\Users\<user_name>\AppData\Roaming\GHISLER\wincmd.ini"`. You need to add the following lines:
+```
+[Colors]
+RedirectSection="<path_to>\color.ini"
+[ColorsDark]
+RedirectSection="<path_to\color.ini"
+```
 
 ## Team
 
