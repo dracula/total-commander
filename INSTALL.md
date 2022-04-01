@@ -12,4 +12,10 @@ Download using the [GitHub .zip download](https://github.com/dracula/total-comma
 
 #### Activating theme
 
-1. Copy colors.ini in X:\Users\ *username* \AppData\Roaming\GHISLER
+Edit the file `"C:\Users\<user_name>\AppData\Roaming\GHISLER\wincmd.ini"`. You need to add the following lines:
+```
+[Colors]
+RedirectSection="<path_to>\color.ini"
+[ColorsDark]
+RedirectSection="<path_to>\color.ini"
+```
