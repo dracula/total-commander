@@ -17,5 +17,5 @@ Edit the file `"C:\Users\<user_name>\AppData\Roaming\GHISLER\wincmd.ini"`. You n
 [Colors]
 RedirectSection="<path_to>\color.ini"
 [ColorsDark]
-RedirectSection="<path_to\color.ini"
+RedirectSection="<path_to>\color.ini"
 ```
