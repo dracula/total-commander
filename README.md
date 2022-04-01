@@ -13,7 +13,7 @@ After the download edit the file `"C:\Users\<user_name>\AppData\Roaming\GHISLER\
 [Colors]
 RedirectSection="<path_to>\color.ini"
 [ColorsDark]
-RedirectSection="<path_to\color.ini"
+RedirectSection="<path_to>\color.ini"
 ```
 
 ## Team
