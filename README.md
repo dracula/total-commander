@@ -6,7 +6,21 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/total-commander](https://draculatheme.com/total-commander).
+* All instructions can be found at [draculatheme.com/total-commander](https://draculatheme.com/total-commander).
+* Copy "color.ini" from the cloned repository into "...\AppData\ROAMING\GHISLER"
+* Add/change the following config section inside of "...\AppData\ROAMING\GHISLER\wincmd.ini".
+
+```
+[Colors]
+RedirectSection=%COMMANDER_INI%\..\color.ini
+```
+
+Example: 
+```
+[Colors]
+RedirectSection=c:\users\yourname\AppData\Roaming\GHISTLER\color.ini
+```
+
 
 ## Team
 
